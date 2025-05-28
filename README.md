@@ -1,5 +1,5 @@
 # Meal-Nutrition-Analysis-using-Multi-modal-data.
-This study analyses multimodal data consisting of Continuous Glucose Monitor readings, demographic data of BMI, Insulin levels, diabetes status, etc, and Images of Breakfast and Lunch meals. The labels consist of Breakfast calories, carbs, fats and proteins. We developed an ML model to predict the lunch calories, carbs, fats and protein.
+This study analyses multimodal data consisting of Continuous Glucose Monitor readings, demographic data of BMI, Insulin levels, diabetes status, etc, and Images of Breakfast and Lunch meals. The labels consist of Breakfast calories, carbs, fats, and proteins. We developed a Deep Learning model to predict the lunch calories, carbs, fats, and protein consumed by the individual. The evaluation metric used was **RMRSE** (Root Mean Relative Square Error) which tells us how far off our predictions are — in percentage terms — compared to the real values. We achieved an **RMRSE of 0.35** against the **benchmark of 0.53**. 
 
 ### Demonstration
 

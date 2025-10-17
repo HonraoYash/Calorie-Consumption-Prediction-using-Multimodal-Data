@@ -7,7 +7,7 @@ Watch the project demonstration on YouTube: [Demonstration Video](https://youtu.
 
 Model Architecture-
 
-![Model Architecture](Model%20Architecture.jpg)
+![Model Architecture](multimodal.jpg)
 
 Abstract - 
 —This study presents a novel multimodal deep learning approach for predicting calorie intake using continuous glucose monitoring (CGM) data, demographic information and meal images. We have implemented a comprehensive model that is integrating convolutional neural networks for image processing, bidirectional long-short term memory networks with attention mechanisms for CGM data analysis, and fully connected layers
